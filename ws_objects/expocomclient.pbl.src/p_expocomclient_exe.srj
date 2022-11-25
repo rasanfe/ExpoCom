@@ -1,16 +1,16 @@
 ﻿$PBExportHeader$p_expocomclient_exe.srj
 $PBExportComments$Generated Application Executable Project
-EXE:expocomclient.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 22.0.0.1878
+EXE:expocomclient.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 22.0.0.1892
 CMP:0,0,0,2,0,0,1
 COM:RSRSYSTEM
 DES:Appeon Power Builder 2022 Product File 32Bits
 CPY:Ramón San Félix Ramón
 PRD:ExpoComClient
-PVS:2022.0.1878.1
-PVN:2022,0,1878,1
-FVS:2022.0.1878.1
-FVN:2022,0,1878,1
+PVS:2022.0.1892.2
+PVN:2022,0,1892,2
+FVS:2022.0.1892.2
+FVN:2022,0,1892,2
 MAN:0,asInvoker,0
 PBD:expocomclient.pbl,,1
-OBJ:C:\Blog\ExpoCom\expocomclient.pbl,w_main,w
-OBJ:C:\Blog\ExpoCom\expocomclient.pbl,expocomclient,a
+OBJ:C:\projecto pw2022\Aprender\Mis Cosas\Blog\ExpoCom\expocomclient.pbl,expocomclient,a
+OBJ:C:\projecto pw2022\Aprender\Mis Cosas\Blog\ExpoCom\expocomclient.pbl,w_main,w
